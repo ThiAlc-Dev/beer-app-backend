@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "IPA",
+            "description": "",
+            "urlImage": "",
+            "price": 9.90
+        },
+        {
+            "id": 2,
+            "name": "Session IPA",
+            "description": "",
+            "urlImage": "",
+            "price": 9.90
+        },
+        {
+            "id": 3,
+            "name": "Pale Ale",
+            "description": "",
+            "urlImage": "",
+            "price": 10.90
+        }
+    ]
+}
