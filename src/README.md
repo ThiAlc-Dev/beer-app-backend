@@ -4,12 +4,12 @@
 * git init
 * git add README.md
 * git commit -m "first commit"
-* git branch -M "you_branch_name"
+* git branch -M "your_branch_name"
 * git remote add origin https://github.com/ThiAlc-Dev/beer-app-backend.git
-* git push -u origin "you_branch_name"
+* git push -u origin "your_branch_name"
 
 ***push an existing repository from the command line***
 
 * git remote add origin https://github.com/ThiAlc-Dev/beer-app-backend.git
-* git branch -M "you_branch_name"
-* git push -u origin "you_branch_name"
+* git branch -M "your_branch_name"
+* git push -u origin "your_branch_name"
